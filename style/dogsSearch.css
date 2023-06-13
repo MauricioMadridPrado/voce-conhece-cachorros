@@ -30,10 +30,14 @@
 }
 .search__title {
   font-size: 1.5rem;
-
+  text-align: center;
 }
 .search__link__container {
 }
 .search__link {
   font-size: 1.25rem;
+}
+.search__text{
+  max-width: 500px;
+  margin: 2rem ;
 }

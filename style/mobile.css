@@ -1,0 +1,30 @@
+@media (max-width: 1000px) {
+    .intro {
+      flex-direction: column;
+      padding: 0;
+      width: 450px;
+    }
+    .intro__text__container {
+      padding: 1rem 0;
+      width: 450px;
+    }
+    .intro__text {
+      font-size: 1rem;
+      height: 200px;
+      overflow: auto;
+    }
+
+    .dogs__search__search {
+      text-align: center;
+    }
+    .dogs__search__title {
+      width: 300px;
+      display: block;
+    }
+  
+    body {
+ 
+      box-sizing: border-box;
+      padding: 2rem;
+    }
+  }
